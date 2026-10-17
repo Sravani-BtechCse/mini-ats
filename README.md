@@ -4,7 +4,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://mini-ats-earlyjobs.vercel.app)
 [![Tech Stack](https://img.shields.io/badge/Tech_Stack-Next.js_16_•_React_19_•_TypeScript_•_Tailwind_v4-indigo?style=for-the-badge)](https://nextjs.org/)
-[![Status](https://img.shields.io/badge/Build-Passing-emerald?style=for-the-badge)](https://github.com/sravanikarra)
+[![Status](https://img.shields.io/badge/Build-Passing-emerald?style=for-the-badge)](https://github.com/Sravani-BtechCse/mini-ats)
 
 ---
 
